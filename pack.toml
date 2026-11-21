@@ -1,0 +1,13 @@
+name = "Big Earth"
+author = "Gubby"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "866668900a3e366ba2881a972d072a5a747187ae9209d96ddb0f0feba89a20da"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.267"
