@@ -1,0 +1,13 @@
+name = "ConfigAPI"
+filename = "ConfigAPI-Universal-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lmnH17AA/versions/zGLnuZKg/ConfigAPI-Universal-1.1.jar"
+hash-format = "sha512"
+hash = "a2fbc5c14fcb8caee9266e863c08d8265a6db841f46f1366b4c5c46edd7be9e634ece2ad151ef09acbad607be1e3de6d16b26506f10842df6f07c9723ef5825e"
+
+[update]
+[update.modrinth]
+mod-id = "lmnH17AA"
+version = "zGLnuZKg"

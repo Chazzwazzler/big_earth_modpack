@@ -1877,6 +1877,11 @@ hash = "a9fd327bb8855bdf68fbe88e17936ba866ea608bf2def5154fc52e0c1fe9514b"
 metafile = true
 
 [[files]]
+file = "mods/configapi.pw.toml"
+hash = "65f34402416e55d7f5807aa6467ef20ba8711b5e68eced58b0faa34dc1f96a7d"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "89340330d49ebf646a46af0da4cd457c98e0dca4337490981421d86bfcd2fd94"
 metafile = true
@@ -2117,6 +2122,11 @@ hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "d89b50af502aab4416e07fa8f92433a18fac11285fe1c39ebccea610dbfdd1e7"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "d92fc8263e986d682e6a207e434cbffc2844ea180e916553b280033d560d7c89"
 metafile = true
@@ -2218,7 +2228,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2676222e3caa92ab7ca19908c7ac36b04f2f71a0e873db2e4f95756222b9d9b4"
+hash = "afdd6ad9aedd5e1a7ed66fb170b0123f2c289c2e67421a1278a1a53017909854"
 metafile = true
 
 [[files]]
@@ -2317,13 +2327,18 @@ hash = "378be0568f13e7366ecac6d2501f63afbee8548abbd9d25e0a72270eabe4bfa1"
 metafile = true
 
 [[files]]
+file = "mods/keybindhider.pw.toml"
+hash = "4e3a3ce9770420b52c3a5d6d2d119e558db945319023c4f0432bf17a8b8ab210"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "84f4b09b7ef3ef75478cfa6d126951958444d612375c99b1c4e7e6bdbef28c1c"
 metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "e8ad4c0b1a01858f6d653672472641f24aeacf7d6fb3b63a4358157312381a76"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
 
 [[files]]
@@ -2373,7 +2388,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
+hash = "d7ff27bf5e0c0bd5ede8303d5a41cec193f700292c78c86ad6812a5193f013d9"
 metafile = true
 
 [[files]]
@@ -2659,6 +2674,11 @@ metafile = true
 [[files]]
 file = "mods/ssrd.pw.toml"
 hash = "902b9f7cae33327dfb12e7a2dd454b20625644ce3c760d21b985e75e18a57e7c"
+metafile = true
+
+[[files]]
+file = "mods/stfu-social.pw.toml"
+hash = "5604e5e7e20e33c7e0845a7e3d1dbc0b0fc8e07234a04852a491a3d6f4a05e20"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "STFU Social"
+filename = "stfusocial-neoforge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbc83772ab3e7917a7abcbf64407067c8537d2bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9495774
+project-id = 1729893
