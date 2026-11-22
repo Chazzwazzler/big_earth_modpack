@@ -1,0 +1,8 @@
+name = "Still Life Stone Blobs"
+filename = "stone_blobs_cave_biomes_1.21.1.zip"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/rwritb6gx9nc1kttrgowv/stone_blobs_cave_biomes_1.21.1.zip?rlkey=4zqgfk6s2h2hnehdgtz33gtpl&st=4gzy4vkb&dl=1"
+hash-format = "sha256"
+hash = "2b7fc6217479eaf241dcd2ec2e5ed4c1a702cd189cab0e9b63c9d8219a3dd331"
