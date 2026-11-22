@@ -2708,6 +2708,11 @@ hash = "0ea8ab3c8eebc336062f5e2da28c50f460fdc555913a9a66e4f27972c3a5e1ef"
 metafile = true
 
 [[files]]
+file = "mods/vanillafied-sodium-options.pw.toml"
+hash = "a787681b6c51e65ac4b12c437a1309f242bb0c1c04a9a3859986682d58ad661f"
+metafile = true
+
+[[files]]
 file = "mods/vb-compat.pw.toml"
 hash = "19305224fb7e261381a1fbbd32e4a00cf8d9f13f151208006b7b4adbfcd195aa"
 metafile = true
