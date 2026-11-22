@@ -1303,6 +1303,10 @@ file = "config/recipeessentials.json"
 hash = "0367df0389916f88d18b85549718e008ae9010e809414e555378f64fd0e6fcee"
 
 [[files]]
+file = "config/reeses_sodium_options.json"
+hash = "5cba487174816696414e25f15d99766acb82a7fa128337333f4b230dae6bd07d"
+
+[[files]]
 file = "config/ritchiesprojectilelib-server.toml"
 hash = "0118936ae0375d6c318582b47e0cf631540ba683d4a5db25a3ca7f090eda54c1"
 
