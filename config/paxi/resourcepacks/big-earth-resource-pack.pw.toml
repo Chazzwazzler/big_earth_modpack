@@ -1,0 +1,8 @@
+name = "Big Earth Resource Pack"
+filename = "Big-Earth-Modpack-Pack.zip"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/uqtudzwlpdm4g70daz7wq/Big-Earth-Modpack-Pack.zip?rlkey=zarphhgelvky6e3go9riksl0q&st=l9t3bfw4&dl=1"
+hash-format = "sha256"
+hash = "3410d994a22b7e06ad3aa7dd97fcd54fd97f86af88f31616218ce341ac4b7ae6"

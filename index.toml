@@ -29,6 +29,10 @@ file = "config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
+file = "config/aeronautics-client.toml"
+hash = "8d41a8e549a15100345effd3c49bef8a83af14cfde829223146b2f8e04257dc3"
+
+[[files]]
 file = "config/aeronautics-server.toml"
 hash = "733a50c4a935c18257572c88cf0df06e85978671930984248d4dac1ffdfb6b19"
 
@@ -409,6 +413,14 @@ file = "config/betterchunkloading.json"
 hash = "b8bbc42c268ca0d4089a039b415ff7d22af05859bdd2ecb18e956eeb4aea8f87"
 
 [[files]]
+file = "config/betterdays-client.toml"
+hash = "dae026d4419175e0fecdd856ac27adcfead736d6474b76cbbb0654a8d7676929"
+
+[[files]]
+file = "config/betterdays-common.toml"
+hash = "9ede454326694ca4d572ae7f72fd15a88ae43e7a08610f8ddaf9d18ed3cafece"
+
+[[files]]
 file = "config/bits_n_bobs-common.toml"
 hash = "ef974c139b71fdbc4cc14048f46150ff95e8d9911d32a0f5c5bd0b393742fb80"
 
@@ -439,6 +451,10 @@ hash = "8e367f5171aabc7337f94a1b70045bad620ef99ce28c6d42708806af561ad249"
 [[files]]
 file = "config/chat_heads.json5"
 hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
+
+[[files]]
+file = "config/chatanimation.json"
+hash = "b0fa9ec5d41f666fa2c770bb2bde4753cbeeef76909f4765d6ebbf5683c4ae58"
 
 [[files]]
 file = "config/climbable_ropes-client.toml"
@@ -745,6 +761,10 @@ file = "config/cristellib/vanillabackport/structure_toggle_config.json5"
 hash = "36ff9d3a88e647a634d3e64946f45fba93fbc88d079c9ed910e2a9ad631a5fe5"
 
 [[files]]
+file = "config/crittersandcompanions-common.json5"
+hash = "6c71ae8e49bbd1da8e98d86e218db5479e62a540cf44c4df49426e4d2b690209"
+
+[[files]]
 file = "config/cupboard.json"
 hash = "9168e98ef6f9cd59205a3ae7915cfa5cbfca5bc0d1dfd9839e25bb3eff96ac9d"
 
@@ -767,6 +787,14 @@ hash = "1ee33320f192e8e292114228f0ebd8651f6111c928dafc3fa883c75ee25f52e5"
 [[files]]
 file = "config/defaultoptions-common.toml"
 hash = "04e8f5e0f15baa2edae956fe4b8282e8382b94027c6dcc4f3c45f7b13c953e36"
+
+[[files]]
+file = "config/do_a_barrel_roll-client.json"
+hash = "ee32faf303d3beaff76ee54091bc95788048046b6e948ea7795d1eb34f365607"
+
+[[files]]
+file = "config/do_a_barrel_roll-server.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/dungeonsdelight-client-config.toml"
@@ -821,12 +849,92 @@ file = "config/everycomp-common.toml"
 hash = "0c9e53beefd9e8f6e081ee7f7283c66a870e0c41e5c4512cd508ae5aa01e5362"
 
 [[files]]
-file = "config/everycomp-entries.toml"
+file = "config/everycomp-entries-1.toml.bak"
 hash = "767328db55f3041d250eaecea1dffb6cc18066a46a0709381660af0739f46020"
+
+[[files]]
+file = "config/everycomp-entries.toml"
+hash = "068d774851d1b6879b1ff1bcd3bac1d87eca8ff0747874bdd6da81d997685f09"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
 hash = "690479feb778b02366b4def6f58586dca088b9472065a0a9d373101d66698ccd"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "2a3cf7b26f391cd934b21f6c088e41cd448b3e8dc6ca68f42a765d81b42a4750"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "f5fc3b89885d4f239dab308491497bda09d0ea6a6c3a1c67777d021a6ec11367"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "c417bcb3f23a2818169bbd209908a6c08e10acf450703d747e9d6b97e6cc2c3a"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "d9d8b487c80301a6fb625076e5265ba04091a05d5309e0aa0ef8a1be46190d84"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "04293aaea2a76348ae9a82ef51070aae2481713242bfcc34a333809b6740e62a"
+
+[[files]]
+file = "config/fancymenu/profile.json"
+hash = "ec256c03dbc6d23de15f2ffaa891ed0e44f810b5ceca59cccdd0d8a36c17fe7c"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -906,11 +1014,11 @@ hash = "f9f68a1557cdfab8394d2f4b54a2756d96451dcdddea4f5e04cb912b516ffa05"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "dd77862a23c5dd1bb340b662de37494b0b129a8e60b665b67ff90c91de2fbc85"
+hash = "aad357cd4b5b4d7911eafc5fe61a41cd89bfffd791088f039286969354ff3411"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "6498fb534844f28b2df1c8800a360a9aaa2f5f6ad2ca56e415cafeb96d921874"
+hash = "fc5e132970fabfa0420843739c9f0277c651c1889ec52f3080e14ca8e649789f"
 
 [[files]]
 file = "config/jeed-client.toml"
@@ -979,6 +1087,22 @@ hash = "6578bc417fc04cc6e57b330bf139a6d48ab5fc9de95638ae283f14975178ac3d"
 [[files]]
 file = "config/kiwi-common.yaml"
 hash = "202b5a7ab19c1cfff344bd6546be24f8c10a3e92632551ca83ab636016e9d72f"
+
+[[files]]
+file = "config/konkrete/locals/de_de.local"
+hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
+
+[[files]]
+file = "config/konkrete/locals/en_us.local"
+hash = "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a"
+
+[[files]]
+file = "config/konkrete/locals/pl_pl.local"
+hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
+
+[[files]]
+file = "config/konkrete/locals/pt_br.local"
+hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -1129,6 +1253,16 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/big-earth-resource-pack.pw.toml"
+hash = "bbe05ee59e12301162ce4a2158a62c52abe4186b6a84c303b961b9bdd89c01b6"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
+hash = "6a489b37b949921beffb24adb91d6f572c4ee82668b7dc15b8aaedd767476aad"
+metafile = true
+
+[[files]]
 file = "config/ponder-client.toml"
 hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
 
@@ -1143,6 +1277,10 @@ hash = "353ff57e22aba1ad258de34ff0ffce3a229bebeaec909e1b2501326cc55d73f1"
 [[files]]
 file = "config/powergrid-server.toml"
 hash = "b52b975029db72b81a75708891860a413e32b34e224ace013da7cbac66a8bce1"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "774274e780bee5bf90b8114e59429b5b3a26222b4dca7d8df8b1dd438b33a003"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -1249,6 +1387,10 @@ file = "config/smoothchunk.json"
 hash = "79e541346259e3db5e3fbf617e6ef11396f50b930be3f9670c0b82727cf19121"
 
 [[files]]
+file = "config/smoothgui.json"
+hash = "5124ae6db05ea129d90ad6c1009196775a50de912e48725f43c094269969a3ed"
+
+[[files]]
 file = "config/sodium-fingerprint.json"
 hash = "3b42c2a1059af5da8934ce37168ee1866e491f939af260d314fd39f3c53bbf19"
 
@@ -1258,7 +1400,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
+hash = "4056d1df6ceaf99ce534f5f61bf978bc2f6d62381deed617cf361e180e1f1ca4"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -1277,8 +1419,12 @@ file = "config/sophisticatedcore-common.toml"
 hash = "ec6838adacf33ffdaea96af7721027a339c529b219643855c6f59acc119790f6"
 
 [[files]]
-file = "config/sophisticatedinventoryinteractions-client.toml"
+file = "config/sophisticatedinventoryinteractions-client-1.toml.bak"
 hash = "9fdece2070a8e15c80e7c46ce219307ea9d010db5e6c073b598ffa9c969d6936"
+
+[[files]]
+file = "config/sophisticatedinventoryinteractions-client.toml"
+hash = "8b4b57552427dc5d9adca7f2b70d60d31b97a02dcfc444c76465a334df801f21"
 
 [[files]]
 file = "config/sophisticatedinventoryinteractions-common.toml"
@@ -1289,8 +1435,12 @@ file = "config/sophisticatedstorage-client.toml"
 hash = "dc326609de87d4077076e3769f248ac290ad0a4b289666ce37ba1aeea59bfa08"
 
 [[files]]
-file = "config/sophisticatedstorage-common.toml"
+file = "config/sophisticatedstorage-common-1.toml.bak"
 hash = "598a20e3ee0ab0a5914e6cfe3f963bf5a58a29218b30ae3af4f91449b8e93181"
+
+[[files]]
+file = "config/sophisticatedstorage-common.toml"
+hash = "8df2f88d3cfab410e346ca6109d701fa38df0d5ccbcb5ca63287c291652cff2e"
 
 [[files]]
 file = "config/sophisticatedstorage-server.toml"
@@ -1306,7 +1456,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "dacc56be463f283c06fcba02414565fbaf2808de75f355d6cd1a6ccb13eef4dc"
+hash = "0b435833df7f76f178562f6cf094bb4156d93b89e8099d3c0546a164202859ca"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1422,7 +1572,7 @@ hash = "47336a3829a19eff93c6a4200bbd0b551444acb62880f506c78c76926d00a8bc"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "620ca4c85343b9352b3566f3a0c10b02d5056f3dee29b60dd8bf0cf9c654e30e"
+hash = "21967b5979d8991ab678d7a97505a6f6ef886e77e3787c660fab53021f2a3cd2"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -1479,6 +1629,10 @@ hash = "3f05a62ecf2b307ec62e5bf24f645121685bde1bb8ceae1c0fc375a121dac8c8"
 [[files]]
 file = "config/trmt.json"
 hash = "dc616de5844f627b0196f517f4ba92a9a4866a9c2d84a9ca97f4291aa90ac731"
+
+[[files]]
+file = "config/untitledduckmod-common.toml"
+hash = "749fdd24225857ccf475ce417737bd00dab68f57cb55f12ac4681cd745fea875"
 
 [[files]]
 file = "config/vanilla_structures/placement_structure_config.json5"
@@ -1551,6 +1705,14 @@ hash = "cae97bd28963a8f34474579af2e1a64f3dffc1603b841620c2fcb73c90f9e333"
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "029d2648e29b36e77319b7d953493f7b1162deb0119dce47d8abe21bf24b716a"
+
+[[files]]
+file = "config/whitenoise-client.toml"
+hash = "86061aeaa531953c4bbdd96610bca2c54d41c5cba9c8b91e67ce77b340071c1e"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "config/zeta-common.toml"
@@ -2588,9 +2750,4 @@ metafile = true
 [[files]]
 file = "mods/zume.pw.toml"
 hash = "165466fe8e528309d95875396f2a5e13c0bab7bcb0c1134d1fd5f3a935d488f5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-animations.pw.toml"
-hash = "6a489b37b949921beffb24adb91d6f572c4ee82668b7dc15b8aaedd767476aad"
 metafile = true
