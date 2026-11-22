@@ -2266,11 +2266,6 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
-file = "mods/no-realms-button.pw.toml"
-hash = "51f62fe1464df2df1f8cd5acc9aaefa75b8641e15f577e49a3b87e1c117a3bed"
-metafile = true
-
-[[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "11835b8555c23090b12d6ca9be871a6b5bfcec5ff7f48e77ef09c784af40b69e"
 metafile = true
@@ -2558,6 +2553,11 @@ metafile = true
 [[files]]
 file = "mods/veggies-delight.pw.toml"
 hash = "03787f92417875e7e43a959a9eb07c2c20edbddaa7cbda50205f2c388f8b8c81"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "2684f71394862cff4c20d0f4d8491c0f86f12e66879381295e9088e0eded025d"
 metafile = true
 
 [[files]]
