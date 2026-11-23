@@ -2672,11 +2672,6 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
-file = "mods/ssrd.pw.toml"
-hash = "902b9f7cae33327dfb12e7a2dd454b20625644ce3c760d21b985e75e18a57e7c"
-metafile = true
-
-[[files]]
 file = "mods/stfu-social.pw.toml"
 hash = "5604e5e7e20e33c7e0845a7e3d1dbc0b0fc8e07234a04852a491a3d6f4a05e20"
 metafile = true
