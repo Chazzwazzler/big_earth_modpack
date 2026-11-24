@@ -1,6 +1,6 @@
 name = "Big Earth"
 author = "Gubby"
-version = "21"
+version = "22"
 pack-format = "packwiz:1.1.0"
 
 [index]
