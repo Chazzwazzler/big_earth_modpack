@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "build.txt"
+hash = "6e2ae11dad0616f66bbb2b6e6556f580bb987fd911d7132aa6bee2bfc7cc7b52"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "46371a72850e2e21e8587324e1ea17ffa6c30264e3bfc4bc4d59756b8be88e7e"
 
@@ -645,6 +653,14 @@ file = "config/cristellib/envelope/structure_toggle_config.json5"
 hash = "447d309b8a2e51bab45b726f867ae6392812adc95d4b2d15dd786f54f3c31aa9"
 
 [[files]]
+file = "config/cristellib/loconautics/structure_placement_config.json5"
+hash = "c60a58ff560e2d2402dd8ddb36ccb2e4ea7e9733bab005cb42b00c2e33927f6e"
+
+[[files]]
+file = "config/cristellib/loconautics/structure_toggle_config.json5"
+hash = "3d0c136a3ffb4fa76ed152652ce9014566613abffd9b4efe4c5edced5ff7677f"
+
+[[files]]
 file = "config/cristellib/mr_dungeons_andtaverns/structure_placement_config.json5"
 hash = "16fe2910555dc11975ca15c7892db174ad4a722cf889cd6a03187f66dc726f18"
 
@@ -782,7 +798,7 @@ hash = "3c34cf9f7918c6a9ec15b14a87aa4570a751c1688f8ac01cb2e9acfb9392a734"
 
 [[files]]
 file = "config/cwb.json"
-hash = "1ee33320f192e8e292114228f0ebd8651f6111c928dafc3fa883c75ee25f52e5"
+hash = "cbbefefabc33f6fe1d8144dba1862d0677f5c5da966bd2e3b8fe2d76c7068db4"
 
 [[files]]
 file = "config/defaultoptions-common.toml"
@@ -795,6 +811,10 @@ hash = "ee32faf303d3beaff76ee54091bc95788048046b6e948ea7795d1eb34f365607"
 [[files]]
 file = "config/do_a_barrel_roll-server.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"
 
 [[files]]
 file = "config/dungeonsdelight-client-config.toml"
@@ -862,7 +882,7 @@ hash = "690479feb778b02366b4def6f58586dca088b9472065a0a9d373101d66698ccd"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "2a3cf7b26f391cd934b21f6c088e41cd448b3e8dc6ca68f42a765d81b42a4750"
+hash = "4aa9b92b44ce5cc2ba19d8bdc14049e6f0eed25eeb94a8f63a9276f41a102e8d"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -870,7 +890,7 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "f5fc3b89885d4f239dab308491497bda09d0ea6a6c3a1c67777d021a6ec11367"
+hash = "fe49f405fc36bb7da04e3555358e50c1452f7806d8d9a214eeb6d4b879f18c58"
 
 [[files]]
 file = "config/fancymenu/customization/options_screen_layout.txt"
@@ -878,7 +898,7 @@ hash = "c417bcb3f23a2818169bbd209908a6c08e10acf450703d747e9d6b97e6cc2c3a"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "d9d8b487c80301a6fb625076e5265ba04091a05d5309e0aa0ef8a1be46190d84"
+hash = "49b6978f75932d1496db3577368017e463c593a970bf1d9816c1cbcd38390762"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -1046,7 +1066,7 @@ hash = "e64349cae34367965848d7fb390dcd6a52d23c012c4711005a70084d958cee67"
 
 [[files]]
 file = "config/jei/client/ingredient-list-mod-sort-order.ini"
-hash = "b69261d1b8fa9594f8e0b83408ad26926d40a9b51fa51a38788779fc5b571342"
+hash = "439a79992ca55f35bcce55877b5dd4a346da0ca7c256e1874ec98476005d2626"
 
 [[files]]
 file = "config/jei/client/ingredient-list-type-sort-order.ini"
@@ -1079,6 +1099,10 @@ hash = "3b3519f38d850e4eb869d00d75b5e4dc664950959564aaf90c7ab7ccc6448a3c"
 [[files]]
 file = "config/kerria.json"
 hash = "8c678ba77a5ab38d8414c5fc8040b05b8fbfa8068a294ffa2e1c586d933a7691"
+
+[[files]]
+file = "config/keybindhider.json"
+hash = "9e3009c0284ca06fe53808fa23bbff1eba52a886e3722dfd779c88669940ebff"
 
 [[files]]
 file = "config/kiwi-client.yaml"
@@ -1115,6 +1139,14 @@ hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 [[files]]
 file = "config/lithostitched.json"
 hash = "ce8ab190281862b0554c92043c2bf8af106fbe4116bcd6dab433f6506781dbc0"
+
+[[files]]
+file = "config/loconautics-client.toml"
+hash = "13c8ff84fccbda6383fad46fc317d7ce98b8a628dc8ea94aa1e74ab6221ac1c9"
+
+[[files]]
+file = "config/loconautics-experimental.toml"
+hash = "ead9b5e4388412ef4f15d54e301114980a5987cf821035d0d151b9e3054f3dd8"
 
 [[files]]
 file = "config/lodestone-client.toml"
@@ -1365,7 +1397,7 @@ hash = "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192"
 
 [[files]]
 file = "config/simpleclouds-client.toml"
-hash = "af1053d0cc00927b9df5fe99934219583f89a0623ee7a206faa3331afc06ab36"
+hash = "33b65e48f8484cec5e141ac0cd6d846d1669352c62dcfa822e14f92c87b67527"
 
 [[files]]
 file = "config/simpleclouds-common.toml"
@@ -1465,11 +1497,19 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "0b435833df7f76f178562f6cf094bb4156d93b89e8099d3c0546a164202859ca"
+hash = "255d93fba3a4f59b6e121e6ae61d5a513838870cbf4c8384432b574f389bf813"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "9573c64dd047712ef1c7ec7f8e2a2b442906f7272eb0c0c73986fc876a3e6235"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/spark/tmp-client/about.txt"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
 file = "config/spark/tmp/about.txt"
@@ -1581,7 +1621,7 @@ hash = "47336a3829a19eff93c6a4200bbd0b551444acb62880f506c78c76926d00a8bc"
 
 [[files]]
 file = "config/submarine_hull.json"
-hash = "21967b5979d8991ab678d7a97505a6f6ef886e77e3787c660fab53021f2a3cd2"
+hash = "10b3454c607144a258295d3dcdb255d22dd7079600a385257a90e12375415cf4"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -1589,7 +1629,7 @@ hash = "e901c5c0af103cc283ac9e1012f63b4b3933efdc3ad2f39b4a56b410bae39b3b"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "5336fe969d9a77534061501f49f17d2828796ccf90b969409d50ead272eeff34"
+hash = "e479a01471aed299b3ba8385bb388b74249f1e4143a159ec48b10a9a2f8ef368"
 
 [[files]]
 file = "config/taxfreelevels.json"

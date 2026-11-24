@@ -11737,6 +11737,798 @@
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
   },
+  "loconautics:andesite_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:andesite_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:andesite_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:andesite_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:andesite_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:ball": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "loconautics:barrel_pipe_connector": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:bearing_axle": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:black_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:black_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:black_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:black_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:black_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:black_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:black_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:black_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:black_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:blue_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:blue_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:blue_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:blue_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:blue_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:blue_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:blue_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:blue_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:blue_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brass_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brass_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brass_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brass_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brass_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brown_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brown_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brown_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brown_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brown_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brown_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brown_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brown_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:brown_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:cerisene_block": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.50122136
+  },
+  "loconautics:cerisene_fluid": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "loconautics:copper_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:copper_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:copper_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:copper_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:copper_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:copycat_headstock": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:cyan_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:cyan_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:cyan_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:cyan_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:cyan_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:cyan_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:cyan_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:cyan_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:cyan_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:firebox": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:firebox_stocker": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:fluid_hatch_gray": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:ghost_wheel": {
+    "maxWaterDepth": 196,
+    "implosionChance": 0.05
+  },
+  "loconautics:gray_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:gray_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:gray_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:gray_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:gray_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:gray_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:gray_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:gray_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:gray_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:green_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:green_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:green_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:green_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:green_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:green_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:green_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:green_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:green_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:handbrake": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:hose_connector": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:hose_nozzle": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:hose_winch": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:industrial_fluid_tank": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "loconautics:industrial_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:industrial_glass_pipe": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "loconautics:industrial_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:industrial_pipe": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "loconautics:industrial_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:industrial_pump": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "loconautics:industrial_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:industrial_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:industrial_smart_pipe": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "loconautics:industrial_valve": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "loconautics:knuckle": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_blue_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_blue_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_blue_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_blue_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_blue_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_blue_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_blue_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_blue_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_blue_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_gray_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_gray_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_gray_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_gray_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_gray_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_gray_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_gray_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_gray_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:light_gray_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:lime_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:lime_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:lime_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:lime_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:lime_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:lime_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:lime_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:lime_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:lime_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:locomotive_gauge": {
+    "maxWaterDepth": 57,
+    "implosionChance": 0.43337092
+  },
+  "loconautics:magenta_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:magenta_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:magenta_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:magenta_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:magenta_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:magenta_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:magenta_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:magenta_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:magenta_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:orange_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:orange_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:orange_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:orange_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:orange_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:orange_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:orange_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:orange_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:orange_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:pink_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:pink_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:pink_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:pink_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:pink_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:pink_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:pink_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:pink_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:pink_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:purple_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:purple_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:purple_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:purple_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:purple_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:purple_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:purple_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:purple_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:purple_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:red_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:red_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:red_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:red_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:red_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:red_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:red_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:red_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:red_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:screw_link": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:smart_safety_valve": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:smokestack": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:steam_takeoff": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:transmission": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:turntable_bearing": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:turntable_plate": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:white_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:white_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:white_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:white_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:white_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:white_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:white_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:white_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:white_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:yellow_analog_controller": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:yellow_buffer": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:yellow_dashboard": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:yellow_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:yellow_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:yellow_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:yellow_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:yellow_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:yellow_small_combustion_engine": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:zinc_framed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:zinc_paneled_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:zinc_plated_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:zinc_ribbed_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
+  "loconautics:zinc_slatted_boiler_body": {
+    "maxWaterDepth": 82,
+    "implosionChance": 0.27459225
+  },
   "minecraft:acacia_button": {
     "maxWaterDepth": 27,
     "implosionChance": 0.5344535
