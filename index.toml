@@ -1300,6 +1300,11 @@ hash = "6a489b37b949921beffb24adb91d6f572c4ee82668b7dc15b8aaedd767476aad"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/simple-clouds-veil-compat-resource.pw.toml"
+hash = "3f12e8364e968809eb5bef4eb97757a23e732015a5148f145a1e069afeecc452"
+metafile = true
+
+[[files]]
 file = "config/ponder-client.toml"
 hash = "57fe579bf4cdbcab6c6702dc0dad2727b899f07f28fea686bca1e4b25b20bbfb"
 
@@ -2629,6 +2634,11 @@ metafile = true
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "919deaa10fc414f61ffe85af18100cbd169e1535b6a822eddb18ed19b5cbacf2"
+metafile = true
+
+[[files]]
+file = "mods/simple-clouds-veil-compat.pw.toml"
+hash = "d331bae4f248a501284779d4ca55cf8246f8b50c1145c4548e9f92685d641310"
 metafile = true
 
 [[files]]

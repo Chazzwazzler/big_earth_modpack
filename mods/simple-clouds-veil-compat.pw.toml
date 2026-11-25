@@ -1,0 +1,8 @@
+name = "Simple Clouds Veil Compat"
+filename = "scveilfix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/640v8xhxtah5jwkq4vyqq/scveilfix-1.0.0.jar?rlkey=afka1pk8s0ob9yy218t1cjgg0&st=rsyvu47x&dl=1"
+hash-format = "sha256"
+hash = "bcc8bc6d429292af264f65ae4ed2f9e763480cdcdb11dd4c038076be8be13b97"
