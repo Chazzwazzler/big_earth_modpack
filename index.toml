@@ -2387,6 +2387,11 @@ hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-foundation.pw.toml"
+hash = "eede425f26764e520d80d6d76f132b450eab91b1c3ac642b62f2e613444a3818"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-furniture-another-furniture-handcrafted-create-sable.pw.toml"
 hash = "9025a1b7ce5b2ac80188b05ee59eacdb8694221f32ef2f4ed019567e9ea0b364"
 metafile = true
