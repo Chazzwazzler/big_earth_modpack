@@ -1,0 +1,13 @@
+name = "Neo Tinkers'"
+filename = "NeoTinkers-1.21.1-3.12.1-v1.33-dev.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e65adb8879f22d7661ba94dbc9800dab9c54e7a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9674115
+project-id = 1809650

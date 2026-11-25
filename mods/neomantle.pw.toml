@@ -1,0 +1,13 @@
+name = "Neo Mantle"
+filename = "NeoMantle-1.21.1-1.21.0-v1.28.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6c389c1531c998a78c972fce44ba4065254f0f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9645601
+project-id = 1809664

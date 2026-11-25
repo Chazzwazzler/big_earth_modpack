@@ -2467,13 +2467,13 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
-file = "mods/neo-mantle.pw.toml"
-hash = "58b54590adc737fb0c74a98ea3ccaca4a79cb5cc81146ac83052f81449e1706d"
+file = "mods/neomantle.pw.toml"
+hash = "e3cfb5b61d2b9053606901b4c0f9c3143a9dae486bc5b8aa3b84056b37c30b5f"
 metafile = true
 
 [[files]]
-file = "mods/neo-tinkers.pw.toml"
-hash = "1509c0b3adfd98765884bab9dcde58bd7656f062cce54d8fa92a7efc27ad1efd"
+file = "mods/neotinkers.pw.toml"
+hash = "55d2bc688b1ef408b725539e752e12fc58961b46d41cc7d8a8472139512d3686"
 metafile = true
 
 [[files]]

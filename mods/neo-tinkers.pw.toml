@@ -1,8 +1,0 @@
-name = "Neo Tinkers"
-filename = "NeoTinkers-1.21.1-3.12.1-v1.32.jar"
-side = "both"
-
-[download]
-url = "https://github.com/vancevoj/neotinkers/releases/download/v1.32/NeoTinkers-1.21.1-3.12.1-v1.32.jar"
-hash-format = "sha256"
-hash = "a0554224e9023022c176c4adfd469e8cd1dbd141c0708c43b52b089d4deaea98"

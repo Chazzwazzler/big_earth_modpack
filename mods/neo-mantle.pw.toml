@@ -1,8 +1,0 @@
-name = "Neo Mantle"
-filename = "NeoMantle-1.21.1-1.21.0-v1.28.jar"
-side = "both"
-
-[download]
-url = "https://github.com/vancevoj/neomantle/releases/download/v1.28/NeoMantle-1.21.1-1.21.0-v1.28.jar"
-hash-format = "sha256"
-hash = "e3945d56f1216c8248944525c9f4d05d1a775f21ced4d332dadb33f708444e6f"
