@@ -88,7 +88,7 @@ showVivecraftNotice = true
 	concurrentComputeDispatches = false
 	#Specifies if faces that are not visible to the camera should be tested during mesh generation. Settings this to off can improve performance at the cost of visual issues with shadows and storm fog.
 	#Default: false
-	testSidesThatAreOccluded = false
+	testSidesThatAreOccluded = true
 	#Specifies if 'rain' beneath storm clouds should appear or not. Disabling can improve performance, especially when in VR.
 	#Default: true
 	renderStormFog = true

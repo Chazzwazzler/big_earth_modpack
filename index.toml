@@ -1402,7 +1402,7 @@ hash = "63ba7034fdf1f45f1b40798d3212f8d838f7c299fbe5795075fbafe1e2265192"
 
 [[files]]
 file = "config/simpleclouds-client.toml"
-hash = "33b65e48f8484cec5e141ac0cd6d846d1669352c62dcfa822e14f92c87b67527"
+hash = "57119cd1aa3c6d3bd524bfcf950a487562c84347f97b285b2dd93e2ba7528fb9"
 
 [[files]]
 file = "config/simpleclouds-common.toml"
@@ -2784,6 +2784,11 @@ metafile = true
 [[files]]
 file = "mods/veggies-delight.pw.toml"
 hash = "03787f92417875e7e43a959a9eb07c2c20edbddaa7cbda50205f2c388f8b8c81"
+metafile = true
+
+[[files]]
+file = "mods/veil.pw.toml"
+hash = "475a240821a858455d59d6e703a209a18bc24d692b4a2716dc42b46c558ffc83"
 metafile = true
 
 [[files]]
