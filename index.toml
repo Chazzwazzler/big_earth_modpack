@@ -6,7 +6,7 @@ hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
 file = "build.txt"
-hash = "20d2add851bf39edcc6b5e830930f962db7e19dffa2cab8610eed551eda6c302"
+hash = "932ab0a0e4191d32c0af7b3f565b7b180dbe9869378abc5816f9add54b806e7f"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -454,7 +454,7 @@ hash = "c3cbcb17ade590daf230373d51457732bc8d9dd1039f7947b6bf564e38df1d9c"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "8e367f5171aabc7337f94a1b70045bad620ef99ce28c6d42708806af561ad249"
+hash = "d992489e89a1e24d0525b69af0d3d6269de1e347022a00e26de7e9e186aabe9b"
 
 [[files]]
 file = "config/chat_heads.json5"
