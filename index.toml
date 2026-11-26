@@ -6,7 +6,7 @@ hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
 file = "build.txt"
-hash = "3840bc236ee03aacbb1ef7d5108ddfa347c59f10b68d4174affbb53140f31273"
+hash = "f4ccd05b3271c386ee55d9876c7450012a3b361e5065c09dc22075e38b3cc35c"
 
 [[files]]
 file = "config/DistantHorizons.toml"

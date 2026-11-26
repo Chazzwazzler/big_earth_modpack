@@ -1,12 +1,12 @@
 name = "Big Earth"
 author = "Gubby"
-version = "29"
+version = "30"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6789009aed6df36a93da38d6e139b16b86cc33c71b75e003cc2ba74488b57ed1"
+hash = "c8369f6749aec692cb94659a41a4b829f17f0f7f3cfbb0524af0f8edf783aa0f"
 
 [versions]
 minecraft = "1.21.1"
