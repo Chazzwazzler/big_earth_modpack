@@ -1,8 +1,0 @@
-name = "Simple Clouds Veil Compat Resource"
-filename = "simpleclouds_veil_fix.zip"
-side = "both"
-
-[download]
-url = "https://www.dropbox.com/scl/fi/erg0gpaixsacadtfb2xoq/simpleclouds_veil_fix.zip?rlkey=nt1le7gh1nlnzgo8kgkquv0t3&st=qmbwe6hl&dl=1"
-hash-format = "sha256"
-hash = "2fb29c3ac3879c5eb701dbc90b93f511be95e3a166617ca6e691c5b018208447"
